@@ -1,3 +1,3 @@
-# Vogelhaus 2 "Stecksystem" (Name ggf. ändern)
+# Vogelhaus 2 "Stecksystem"
 
 (Beschreibung des Projekts / Vogelhauses)
