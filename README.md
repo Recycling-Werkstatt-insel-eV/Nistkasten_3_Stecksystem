@@ -1,4 +1,8 @@
 # Vogelhaus "Stecksystem"
+
+Bei diesem Vogelhaus ist der Zusammenbau ein Kinderspiel. Es werden kaum Schrauben und kein Klebstoff benötigt. Fast alle Teile werden zusammengsteckt und sind austauschbar, jenachdem welche Vogelart ihr bei euch findet. Der gesamte Entwurf besteht aus nachhaltigen und/oder recycelbaren und wiederverwendbaren Materialien. Auch der integrierte Raubtierschutz und die einfache Reinigungsmöglichkeit machen eure Vögel zu glücklichen Mietern!
+
+
 ![Deckbild](https://github.com/user-attachments/assets/733281eb-4504-4d3e-8337-9a8cdd3be48c)
 
 Bei diesem Vogelhaus handelt es sich um einen von __4 Entwürfen__ aus einer Reihe innerhalb eines Projekts, in dem wir uns zur Aufgabe gemacht haben, kreative innovative und nachhaltige Ideen für Tierbehausungen zu finden und alte Lösungen zu überdenken. Unseren Fokus haben wir auf Vogelbehausungen gelegt. Und wer sind "wir"? Wir sind Oskar und Peter aus der offenen Recycling-Werkstatt von Insel e.V. in Hamburg.
