@@ -3,5 +3,5 @@
 
 Bei diesem Vogelhaus handelt es sich um einen von 4 Entwürfen aus einer Reihe die kreative innovative und nachhaltige Ansätze vorschlägt bestehende Lösungen zu überdenken. Wir haben es uns zum Ziel gemacht nachhaltige, innovative und kreative Ideen zu entwickeln, 
 
-deutsche Stiftung Engagement und Ehrenamt
+__deutsche Stiftung Engagement und Ehrenamt__
 
