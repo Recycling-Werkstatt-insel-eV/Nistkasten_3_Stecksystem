@@ -1,6 +1,12 @@
 __Anleitung__
 Hier findet ihr die Bauanleitung von Vogelhaus "Stecksystem". Achtet darauf, dass ihr alle entsprechenden Einzelteile im Voraus gefertigt habt, bevor ihr versucht die Teile zusammenzusetzen. Die Reihenfolgenach dem folgenden Prinzip ist bindend damit der Zusammenbau einfach und fehlerfrei abläuft. Bei diesem Entwurf ist es besonders wichtig, dass du vorsichtig vorgehst und keine Teile mit Gewalt einfügst, damit beim Holz keine Ecken abbrechen. 
 
+__Benötigte Werkzeuge und Hilfsstoffe__
+
+1. Schraubendreher oder Akkuschrauber
+2. Schraubzwingen oder eine helfende Person
+3. Für abschließende Schönheitsarbeiten braucht ihr ggf. noch etwas Schleifpapier (Körnung 80-200) oder Holzpfeilen.) 
+
 __Schritt 1__ Setze die hölzernen Seitenände mit dem Boden zusammen. Hierfür musst du das Bodenteil nach dem anstecken der Wände nach hinten drücken!
 ![Anleitung_Stecksystem_Vogelhaus_Seite_01](https://github.com/user-attachments/assets/95d1b437-159e-4c52-97f8-68c0fef3b007)
 ![Anleitung_Stecksystem_Vogelhaus_Seite_02](https://github.com/user-attachments/assets/92736873-3b60-4fec-a040-3055359be043)
