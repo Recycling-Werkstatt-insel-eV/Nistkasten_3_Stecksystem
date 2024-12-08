@@ -1,4 +1,5 @@
-__Anleitung__
+# Aufbauanleitung
+
 Hier findet ihr die Bauanleitung von Vogelhaus "Stecksystem". Achtet darauf, dass ihr alle entsprechenden Einzelteile im Voraus gefertigt habt, bevor ihr versucht die Teile zusammenzusetzen. Die Reihenfolgenach dem folgenden Prinzip ist bindend damit der Zusammenbau einfach und fehlerfrei abläuft. Bei diesem Entwurf ist es besonders wichtig, dass du vorsichtig vorgehst und keine Teile mit Gewalt einfügst, damit beim Holz keine Ecken abbrechen. 
 
 __Benötigte Werkzeuge und Hilfsstoffe für den Zusammenbau__
