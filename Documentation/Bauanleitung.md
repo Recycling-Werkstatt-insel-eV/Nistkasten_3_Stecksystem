@@ -27,4 +27,5 @@ Beachte, dass du durch das Hervorziehen des Zwischenbodens die Frontplatte nach 
 
 __Austausch der Frontplatte__
 Auch die Frontplatte lässt sich auf dieses Weise unkompliziert herausnehmen um das Vogelhaus unkompliziert reinigen zu können. 
-__Bild__
+![Öffnung_Frontplatte_Stecksystem_Vogelhaus](https://github.com/user-attachments/assets/18fa5916-5e5b-4453-b2f5-92bb6773c9a3)
+
