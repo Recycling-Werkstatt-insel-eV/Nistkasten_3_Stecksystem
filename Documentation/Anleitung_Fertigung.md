@@ -10,7 +10,7 @@ In dem Ordner "Drawings" befindet sich eine Laservorlage mit dem Namen "Stecksys
 ![Laser 1](https://github.com/user-attachments/assets/efa8e90a-7ef8-4273-8393-a3f5bdef1b5b)
 __Fertigung Holzteile__
 
-In dem Ordner "Drawings" befindet sich zudem eine Laservorlage mit dem Namen "Stecksystem_Laservorlage_Holzteile" Alle Holzteile können aus einem einzelnen Werkstück der Mindestgröße 820/400/18 mm gelasert werden. Die Vektorgrafiken können auch separat ausgeschnitten werden, zu beachten ist jedoch die Dicke des Werkstücks von 18 mm (+- 0.5 mm)  
+In dem Ordner "Drawings" befindet sich zudem eine Laservorlage mit dem Namen "Stecksystem_Laservorlage_Holzteile": [Laservorlage Holzteile](./Drawings/Stecksystem_Laservorlage_Holzteile.svg) Alle Holzteile können aus einem einzelnen Werkstück der Mindestgröße 820/400/18 mm gelasert werden. Die Vektorgrafiken können auch separat ausgeschnitten werden, zu beachten ist jedoch die Dicke des Werkstücks von 18 mm (+- 0.5 mm)  
 ![Laser 2](https://github.com/user-attachments/assets/a77aeb4d-b1e9-462b-89da-4928a6b1475e)
 
 Für den Fall, dass kein Laser zur Bearbeitung der Koponenten zur Verfügung steht oder das nötige Fachwissen nicht vorhanden ist, lassen sich die Teile auch händisch mit anderen Subtraktionsverfahren herstellen. Auch CNC Fräsen ist eine Option. Für diesen Fall wurdem im Ordner "Drawings" technische Zeichnungen mit den Maßen der Komponenten abgelegt. Von diesen Alternativen ist aufgrund der der komplizierten Geometrie der Teile jedoch eher abzuraten.  
