@@ -8,7 +8,11 @@ Bei diesem Vogelhaus ist der Zusammenbau ein Kinderspiel. Es werden kaum Schraub
 __Du möchtest dieses Vogelhaus bauen?__
 
 Dann ist es sinnvoll, dass du dich in folgender Reihenfolge durch das Projekt manövrierst: 
-Zu Beginn solltest du dir die allgemeine [Checkliste](./Documentation/Checkliste.md) anschauen um dir einen geeigneten Einstieg in das Projekt zu geben. Anschließend kannst du dich der [Fertigung der Einzelteile](./Documentation/Anleitung_Fertigung.md) widmen, die wenn du sie sorgsam beachtest, den [Zusammenbau](./Documentation/Anleitung_Zusammenbau.md) erleichtern wird. 
+Zu Beginn solltest du dir die allgemeine [Checkliste](./Documentation/Checkliste.md) anschauen um dir einen geeigneten Einstieg in das Projekt zu geben. Welche Materialien du überhaupt benötigst erfährst du in der [Materialliste](./Drawings/Materialliste_Vogelhaus_Stecksystem.pdf). Anschließend kannst du dich der [Fertigung der Einzelteile](./Documentation/Anleitung_Fertigung.md) widmen, die wenn du sie sorgsam beachtest, den [Zusammenbau](./Documentation/Anleitung_Zusammenbau.md) erleichtern wird. 
+
+Solltest du dieses Vogelhaus noch weiterentwickeln wollen, stehen dir außerdem noch eine [CAD Datei im Step-Format](./CAD/CAD_Stecksystem_Vogelhaus.STEP) und die entsprechenden [Technischen Zeichnungen](./Drawings/Vogelhaus_Stecksystem_Technische_Zeichnungen.pdf) zur Verfügung.
+
+
 
 
 
