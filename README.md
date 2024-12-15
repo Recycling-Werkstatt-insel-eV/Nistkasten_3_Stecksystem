@@ -9,12 +9,9 @@ __Du möchtest dieses Vogelhaus bauen?__
 
 Dann ist es sinnvoll, dass du dich in folgender Reihenfolge durch das Projekt manövrierst: 
 Zu Beginn solltest du dir die allgemeine [Checkliste](./Documentation/Checkliste.md) anschauen um dir einen geeigneten Einstieg in das Projekt zu geben. Welche Materialien du überhaupt benötigst erfährst du in der [Materialliste](./Drawings/Materialliste_Vogelhaus_Stecksystem.pdf). Anschließend kannst du dich der [Fertigung der Einzelteile](./Documentation/Anleitung_Fertigung.md) widmen, die wenn du sie sorgsam beachtest, den [Zusammenbau](./Documentation/Anleitung_Zusammenbau.md) erleichtern wird. 
-
 Solltest du dieses Vogelhaus noch weiterentwickeln wollen, stehen dir außerdem noch eine [CAD Datei im Step-Format](./CAD/CAD_Stecksystem_Vogelhaus.STEP) und die entsprechenden [Technischen Zeichnungen](./Drawings/Vogelhaus_Stecksystem_Technische_Zeichnungen.pdf) zur Verfügung.
 
-
-
-
+__Allgemeines zum Projekt__
 
 Bei diesem Vogelhaus handelt es sich um einen von __4 Entwürfen__ aus einer Reihe innerhalb eines Projekts, in dem wir uns zur Aufgabe gemacht haben, kreative innovative und nachhaltige Ideen für Tierbehausungen zu finden und alte Lösungen zu überdenken. Unseren Fokus haben wir auf Vogelbehausungen gelegt. Und wer sind "wir"? Wir sind Oskar und Peter aus der offenen Recycling-Werkstatt von Insel e.V. in Hamburg.
 Besucht uns gerne auf unserer Website oder noch besser persönlich, wir freuen uns auf euch! 
