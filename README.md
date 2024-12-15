@@ -5,6 +5,13 @@ Bei diesem Vogelhaus ist der Zusammenbau ein Kinderspiel. Es werden kaum Schraub
 
 ![Deckbild](https://github.com/user-attachments/assets/733281eb-4504-4d3e-8337-9a8cdd3be48c)
 
+__Du möchtest dieses Vogelhaus bauen?__
+
+Dann ist es sinnvoll, dass du dich in folgender Reihenfolge durch das Projekt manövrierst: 
+Zu Beginn solltest du dir die allgemeine [Checkliste](./Documentation/Checkliste.md) anschauen um dir einen geeigneten Einstieg in das Projekt zu geben. Anschließend kannst du dich der [Fertigung der Einzelteile](./Documentation/Anleitung_Fertigung.md) widmen, die wenn du sie sorgsam beachtest, den [Zusammenbau](./Documentation/Anleitung_Zusammenbau.md) erleichtern wird. 
+
+
+
 Bei diesem Vogelhaus handelt es sich um einen von __4 Entwürfen__ aus einer Reihe innerhalb eines Projekts, in dem wir uns zur Aufgabe gemacht haben, kreative innovative und nachhaltige Ideen für Tierbehausungen zu finden und alte Lösungen zu überdenken. Unseren Fokus haben wir auf Vogelbehausungen gelegt. Und wer sind "wir"? Wir sind Oskar und Peter aus der offenen Recycling-Werkstatt von Insel e.V. in Hamburg.
 Besucht uns gerne auf unserer Website oder noch besser persönlich, wir freuen uns auf euch! 
 Alle Infos hierzu und noch viele weitere tolle Angebote findet ihr hier: https://werkstatt.insel-ev.de/
