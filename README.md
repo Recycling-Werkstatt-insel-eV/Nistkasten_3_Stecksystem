@@ -24,7 +24,7 @@ Aber wie das halt so ist... Kein Entwurf ist perfekt durchdacht. Und genau da ko
 
 Hier sind die Links zu den Projektübersichten der anderen Vogelhäuser: 
 
-[Vogelhaus "Oskar"](https://github.com/orcular-orga/vogelhaus_ws)
+["Workshop Nistkasten"](https://github.com/orcular-orga/vogelhaus_ws)
 
 [Vogelhaus "Blumenkasten"](https://github.com/orcular-orga/vogelhaus3)
 
