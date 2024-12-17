@@ -22,13 +22,7 @@ Besonders wichtig war uns unter anderem, dass die verwendeten Materialien mögli
 
 Aber wie das halt so ist... Kein Entwurf ist perfekt durchdacht. Und genau da kommt ihr ins Spiel. Wir wollen unser Projekt der Community zur Verfügung stellen und euch herzlich einladen die Vogelhäuser __nachzubauen, oder sogar weiterzuentwickeln__. Die Informationen, die  ihr genau dafür benötigt und wie ihr Schritt für Schritt vorgeht, findet ihr in den beiligenden Vogelhaus-Projekten. Von eher unkomplizierten Ideen, die mit einfachen Handwerkzeugen gefertigt werden können, bis hin zu gelaserten oder CNC- gefrästen z.T. herausfordernden Systemen ist für jeden etwas dabei. Alles kann nichts muss und das gilt auch für die euch zur Verfügung stehenden Mittel. Von uns kommen einige gut gemeinte Ratschläge für die Umsetzung, fühlt euch jedoch gerne frei manches im Sinn eurer Möglichkeiten anders zu machen. Schaut euch gerne um welches Vogelhaus etwas für euch ist, viel Spaß beim bauen und weiterdenken!
 
-Hier sind die Links zu den Projektübersichten der anderen Vogelhäuser: 
-
-["Workshop Nistkasten"](https://github.com/orcular-orga/vogelhaus_ws)
-
-[Vogelhaus "Blumenkasten"](https://github.com/orcular-orga/vogelhaus3)
-
-[Vogelhaus "Ivonne"](https://github.com/orcular-orga/vogelhaus1/blob/main/README.md)
+Im Rahmen dieses Projekts wurden noch einige andere Nistkästen entwickelt: [Zur Übersicht](https://github.com/orcular-orga/vogelhaus_uebersicht)
 
 
 
