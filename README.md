@@ -1,7 +1,7 @@
 # Vogelhaus "Stecksystem"
 
 Bei diesem Vogelhaus ist der Zusammenbau ein Kinderspiel. Es werden kaum Schrauben und kein Klebstoff benötigt. Fast alle Teile werden zusammengsteckt und sind austauschbar, jenachdem welche Vogelart ihr bei euch findet. Der gesamte Entwurf besteht aus nachhaltigen und/oder recycelbaren und wiederverwendbaren Materialien. Auch der integrierte Raubtierschutz und die einfache Reinigungsmöglichkeit machen eure Vögel zu glücklichen Mietern!
-
+![](Austausch_Einflugloch_Stecksystem_Vogelhaus.jpg)
 __Du möchtest dieses Vogelhaus bauen?__
 
 Dann ist es sinnvoll, dass du dich in folgender Reihenfolge durch das Projekt manövrierst: 
