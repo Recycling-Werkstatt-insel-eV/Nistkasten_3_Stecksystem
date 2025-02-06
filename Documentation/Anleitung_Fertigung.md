@@ -8,7 +8,7 @@ __Fertigung Kunststoffteile__
 
 In dem Ordner "Drawings" befindet sich eine Laservorlage mit dem Namen "Stecksystem_Laservorlage_Kunststoffteile" Alle Kunststoffkomponenten können aus einem einzelnen Werkstück der Mindestgröße 250/580/10 mm gelasert werden. Die Vektorgrafiken können auch separat ausgeschnitten werden, zu beachten ist jedoch die Dicke des Werkstücks von 10 mm (+- 0.5 mm) Alternativ zu Kunststoff können die Teile auch wie im folgenden aus Holz gearbeitet werden. Es sind 4 verschiedene Größen von Einfluglöchern der Frontplatte mit den Maßen 25, 30, 32 und 40 mm für verschiedene Vogelarten in der Grafik angelegt worden.  
 
-Die Laservorlage für die Kunststoffteile findest du hier: 
+Die Laservorlage für die Kunststoffteile findest du hier: [Laservorlage Kunststoffteile](../Drawings/Stecksystem_Laservorlage_Kunststoffteile.svg)
 
 __Fertigung Holzteile__
 
