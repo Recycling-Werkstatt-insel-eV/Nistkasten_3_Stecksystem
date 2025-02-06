@@ -18,13 +18,13 @@ __Schritt 3__ Anschließend schiebe von vorne die Frontwand in das Gebilde bis z
 ![](Anleitung_Stecksystem_Vogelhaus_Seite_05.jpg)
 __Schritt 4__ Nun schiebe frontal den Zwischenboden ein. Alle Holzteile sind nun verbaut. 
 ![](Anleitung_Stecksystem_Vogelhaus_Seite_06.jpg)
-![](Anleitung_Stecksystem_Vogelhaus_Seite_07.jpg)
 __Schritt 5__ Jetzt wird von oben die Frontplatte aus Kunstoff eingeschoben. (Je nachdem für welche Vogelart du dich entscheiden hast)
-
+![](Anleitung_Stecksystem_Vogelhaus_Seite_07.jpg)
 __Schritt 6__ Abschließend muss nur noch das Dach angeschraubt werden. Verwende hierfür die 4 Schrauben der Größe M3 mit 20-22 mm Länge. 
-
+![](Anleitung_Stecksystem_Vogelhaus_Seite_08.jpg)
+![](Anleitung_Stecksystem_Vogelhaus_Seite_09.jpg)
 __Schritt 7__ Hänge nun die Montage-Haken in die Rückwand ein. 
-
+![](Anleitung_Stecksystem_Vogelhaus_Seite_10.jpg)
 __Fertig__. Nun kann das Vogelhaus aufgehängt werden. Jenachdem für welchen Ort du dich entschieden hast, verwende hierfür jenachdem wofür du dich entschieden hast Kunst- oder
 Naturfaser z.B. PE oder PP, je nach Nachhaltigkeit und Langlebigkeit vorausgesetzt hohe Zugfestigkeit und Wetterbeständigkeit. 
 
