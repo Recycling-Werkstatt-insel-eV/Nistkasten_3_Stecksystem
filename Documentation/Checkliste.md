@@ -12,7 +12,7 @@ Viele Tierarten, insbesondere Vögel sind heutzutage stark bedroht. Neben andere
    In dieser Form haben die Räuber Schwierigkeiten bis zur Brut hinunter zu greifen. 
 4. Bringe den Vogelkasten idealerweise in einer Höhe von mindestens 2 Metern an, sodass es manchen Räubern schwerer fällt die Brut zu wittern und 
 diese zu erreichen. 
-
+![](Checkliste4.jgp) 
 
 __Der passende Ort__
 
