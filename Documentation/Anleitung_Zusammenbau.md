@@ -31,9 +31,8 @@ Naturfaser z.B. PE oder PP, je nach Nachhaltigkeit und Langlebigkeit vorausgeset
 
 __Austausch des Einfluglochs__
 Beachte, dass du durch das Hervorziehen des Zwischenbodens die Frontplatte nach unten herausziehen und austauschen kannst ohne das Dach abnehnen zu müssen. Dies ist sinnvoll, wenn du die Einfluglochgröße den angesprochenen Vogelarten anpassen willst.  
-
 ![](Austausch_Einflugloch_Stecksystem_Vogelhaus.jpg)
 __Austausch der Frontplatte__
 Auch die Frontplatte lässt sich auf dieses Weise unkompliziert herausnehmen um das Vogelhaus unkompliziert reinigen zu können. 
-
+![](Öffnung_Frontplatte_Stecksystem_Vogelhaus.JPG)
 
