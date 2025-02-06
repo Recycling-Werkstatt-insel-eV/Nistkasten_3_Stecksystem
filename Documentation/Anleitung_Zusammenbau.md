@@ -25,13 +25,14 @@ __Schritt 6__ Abschließend muss nur noch das Dach angeschraubt werden. Verwende
 ![](Anleitung_Stecksystem_Vogelhaus_Seite_09.jpg)
 __Schritt 7__ Hänge nun die Montage-Haken in die Rückwand ein. 
 ![](Anleitung_Stecksystem_Vogelhaus_Seite_10.jpg)
+![](Anleitung_Stecksystem_Vogelhaus_Seite_11.jpg)
 __Fertig__. Nun kann das Vogelhaus aufgehängt werden. Jenachdem für welchen Ort du dich entschieden hast, verwende hierfür jenachdem wofür du dich entschieden hast Kunst- oder
 Naturfaser z.B. PE oder PP, je nach Nachhaltigkeit und Langlebigkeit vorausgesetzt hohe Zugfestigkeit und Wetterbeständigkeit. 
 
 __Austausch des Einfluglochs__
 Beachte, dass du durch das Hervorziehen des Zwischenbodens die Frontplatte nach unten herausziehen und austauschen kannst ohne das Dach abnehnen zu müssen. Dies ist sinnvoll, wenn du die Einfluglochgröße den angesprochenen Vogelarten anpassen willst.  
 
-
+![](Austausch_Einflugloch_Stecksystem_Vogelhaus.jpg)
 __Austausch der Frontplatte__
 Auch die Frontplatte lässt sich auf dieses Weise unkompliziert herausnehmen um das Vogelhaus unkompliziert reinigen zu können. 
 
