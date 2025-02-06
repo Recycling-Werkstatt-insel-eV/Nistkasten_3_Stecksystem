@@ -14,7 +14,7 @@ __Fertigung Holzteile__
 
 In dem Ordner "Drawings" befindet sich zudem eine Laservorlage mit dem Namen "Stecksystem_Laservorlage_Holzteile" Alle Holzteile können aus einem einzelnen Werkstück der Mindestgröße 820/400/18 mm gelasert werden. Die Vektorgrafiken können auch separat ausgeschnitten werden, zu beachten ist jedoch die Dicke des Werkstücks von 18 mm (+- 0.5 mm)  
 
-Die Laservorlage für die Holzteile findest du hier: [Laservorlage Holzteile](../Drawings/Stecksystem_Laservorlage_Kunststoffteile.svg)
+Die Laservorlage für die Holzteile findest du hier: [Laservorlage Holzteile](../Drawings/Stecksystem_Laservorlage_Holzteile.svg)
 
 
 Für den Fall, dass kein Laser zur Bearbeitung der Koponenten zur Verfügung steht oder das nötige Fachwissen nicht vorhanden ist, lassen sich die Teile auch händisch mit anderen Subtraktionsverfahren herstellen. Auch CNC Fräsen ist eine Option. Für diesen Fall wurdem im Ordner "Drawings" technische Zeichnungen mit den Maßen der Komponenten abgelegt. Von diesen Alternativen ist aufgrund der der komplizierten Geometrie der Teile jedoch eher abzuraten.  
