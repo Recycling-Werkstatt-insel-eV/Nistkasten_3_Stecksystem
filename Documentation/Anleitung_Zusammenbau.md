@@ -9,7 +9,7 @@ __Benötigte Werkzeuge und Hilfsstoffe für den Zusammenbau__
 3. Schleifpapier (Körnung 80-200) oder Holzpfeilen für Korrekturen oder abschließende Schönheitsarbeiten.
 
 __Schritt 1__ Setze die hölzernen Seitenände mit dem Boden zusammen. Hierfür musst du das Bodenteil nach dem anstecken der Wände nach hinten drücken!
-
+![](Anleitung_Stecksystem_Vogelhaus_Seite_01.jpg)
 __Schritt 2__ Nun schiebe folgendermaßen von oben die Rückwand ein. 
 
 __Schritt 3__ Anschließend schiebe von vorne die Frontwand in das Gebilde bis zum Anschlag, sodass sie automatisch nach unten einrastet. Gegebenfalls musst du die Vorderwand leicht nach unten drücken.
