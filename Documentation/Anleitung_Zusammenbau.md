@@ -10,10 +10,13 @@ __Benötigte Werkzeuge und Hilfsstoffe für den Zusammenbau__
 
 __Schritt 1__ Setze die hölzernen Seitenände mit dem Boden zusammen. Hierfür musst du das Bodenteil nach dem anstecken der Wände nach hinten drücken!
 ![](Anleitung_Stecksystem_Vogelhaus_Seite_01.jpg)
+![](Anleitung_Stecksystem_Vogelhaus_Seite_02.jpg)
 __Schritt 2__ Nun schiebe folgendermaßen von oben die Rückwand ein. 
-
+![](Anleitung_Stecksystem_Vogelhaus_Seite_04.jpg)
+![](Anleitung_Stecksystem_Vogelhaus_Seite_05.jpg)
 __Schritt 3__ Anschließend schiebe von vorne die Frontwand in das Gebilde bis zum Anschlag, sodass sie automatisch nach unten einrastet. Gegebenfalls musst du die Vorderwand leicht nach unten drücken.
-
+![](Anleitung_Stecksystem_Vogelhaus_Seite_06.jpg)
+![](Anleitung_Stecksystem_Vogelhaus_Seite_07.jpg)
 __Schritt 4__ Nun schiebe frontal den Zwischenboden ein. Alle Holzteile sind nun verbaut. 
 
 __Schritt 5__ Jetzt wird von oben die Frontplatte aus Kunstoff eingeschoben. (Je nachdem für welche Vogelart du dich entscheiden hast)
