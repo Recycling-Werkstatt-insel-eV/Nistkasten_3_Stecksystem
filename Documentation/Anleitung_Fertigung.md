@@ -1,6 +1,6 @@
 # Anleitung zur Fertigung der einzelnen Bauteile
 
-Hier und im folgenden ist beschrieben wie beim Bau von Vogelhaus "Stecksystem" idealerweise vorgegangen werden kann. Ergänzende Infos und Kaufvorschläge der Materialien sind in der [Materialliste](Materialliste_Stecksystem.pdf) zu finden. Alle Komponenten dieses Vogelhauses lassen sich mit Hilfe eines Industrielasers ausschneiden, sofern dieser eine Materialstärke von 18 mm durch Weichholzarten wie Kiefer oder Fichte bewerkstelligen kann. 
+Hier und im folgenden ist beschrieben wie beim Bau von Vogelhaus "Stecksystem" idealerweise vorgegangen werden kann. Ergänzende Infos und Kaufvorschläge der Materialien sind in der [Materialliste](../Materialliste_Stecksystem.pdf) zu finden. Alle Komponenten dieses Vogelhauses lassen sich mit Hilfe eines Industrielasers ausschneiden, sofern dieser eine Materialstärke von 18 mm durch Weichholzarten wie Kiefer oder Fichte bewerkstelligen kann. 
 
 __Fertigung Kunststoffteile__
 ![](L1.png)
